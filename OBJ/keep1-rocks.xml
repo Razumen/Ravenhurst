@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OBJ2MAPSettings>
+  <MAPOutput>C:\Ravenhurst\Trenchbroom\TB Maps\OBJ\keep1-rocks.map</MAPOutput>
+  <BrushMethod>Extrusion</BrushMethod>
+  <CopyToClipboard>False</CopyToClipboard>
+  <Depth>8</Depth>
+  <Scale>100</Scale>
+  <DecimalPlaces>12</DecimalPlaces>
+  <Class></Class>
+  <VisibleTexture>ratex020</VisibleTexture>
+  <HiddenTexture>SKIP</HiddenTexture>
+  <AxisAligned>False</AxisAligned>
+  <MapVersion>Classic</MapVersion>
+  <WADOption>Size</WADOption>
+  <WADPath></WADPath>
+  <wadTextureSizeX>256</wadTextureSizeX>
+  <wadTextureSizeY>256</wadTextureSizeY>
+</OBJ2MAPSettings>

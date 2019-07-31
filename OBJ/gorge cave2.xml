@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OBJ2MAPSettings>
+  <MAPOutput>gorgecave2.map</MAPOutput>
+  <BrushMethod>Extrusion</BrushMethod>
+  <CopyToClipboard>True</CopyToClipboard>
+  <Depth>4</Depth>
+  <Scale>100</Scale>
+  <DecimalPlaces>3</DecimalPlaces>
+  <Class></Class>
+  <VisibleTexture>DEFAULT</VisibleTexture>
+  <HiddenTexture>SKIP</HiddenTexture>
+  <AxisAligned>False</AxisAligned>
+  <MapVersion>Classic</MapVersion>
+  <WADOption>Auto</WADOption>
+  <WADPath></WADPath>
+  <wadTextureSizeX>64</wadTextureSizeX>
+  <wadTextureSizeY>64</wadTextureSizeY>
+</OBJ2MAPSettings>

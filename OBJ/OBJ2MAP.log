@@ -1,0 +1,30 @@
+>>> OBJ-2-MAP v1.2.1 starting up. <<<
+6/29/2019 11:44:54 AM
+OBJ Filename : C:\Ravenhurst\Trenchbroom\TB Maps\OBJ\keep1-secret.obj
+MAP Filename : C:\Ravenhurst\Trenchbroom\TB Maps\OBJ\keep1-secret.map
+
+Method : Spikes
+Copy To Clipboard : False
+Depth: 8
+Scale: 100
+Decimal Places: 4
+Class: worldspawn
+Visible Texture: ratex020
+Hidden Texture: SKIP
+
+! Reading OBJ file into memory
+
+Summary:
+Vertices: 650
+Faces: 1282
+Brushes: 1
+
+! Computing face normals.
+! Beginning MAP construction.
+Done!
+
+"C:\Ravenhurst\Trenchbroom\TB Maps\OBJ\keep1-secret.obj" converted successfully.
+
+Processing time: 00:00.65
+
+Written to "C:\Ravenhurst\Trenchbroom\TB Maps\OBJ\keep1-secret.map".

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OBJ2MAPSettings>
+  <MAPOutput>keep1-campexit.map</MAPOutput>
+  <BrushMethod>Extrusion</BrushMethod>
+  <CopyToClipboard>False</CopyToClipboard>
+  <Depth>4</Depth>
+  <Scale>100</Scale>
+  <DecimalPlaces>10</DecimalPlaces>
+  <Class></Class>
+  <VisibleTexture>ratex020</VisibleTexture>
+  <HiddenTexture>SKIP</HiddenTexture>
+  <AxisAligned>True</AxisAligned>
+  <MapVersion>Classic</MapVersion>
+  <WADOption>Size</WADOption>
+  <WADPath></WADPath>
+  <wadTextureSizeX>64</wadTextureSizeX>
+  <wadTextureSizeY>64</wadTextureSizeY>
+</OBJ2MAPSettings>
